@@ -24,7 +24,7 @@ Automated bash script to decode ionCube-encoded PHP files using the EasyToYou.eu
 
 ```bash
 # Download the script
-wget https://example.com/download.sh
+wget https://raw.githubusercontent.com/BrixSat/easyToYou/refs/heads/main/download.sh
 
 # Make it executable
 chmod +x download.sh
